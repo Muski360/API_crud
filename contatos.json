@@ -1,0 +1,18 @@
+{
+    "alunos": [
+        {
+            "nome": "Maria Rian",
+            "telefone": "191919191919"
+        },
+        {
+            "nome": "Lorenzo Kaio",
+            "telefone": "6666666666"
+        }
+    ],
+    "professores": [
+        {
+            "nome": "Murilo Dovigo",
+            "telefone": "999999999999"
+        }
+    ]
+}
